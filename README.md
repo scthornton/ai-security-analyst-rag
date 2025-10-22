@@ -219,11 +219,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## License
 
-MIT License - feel free to use for learning and portfolio purposes.
+MIT License - feel free to use for learning purposes.
 
 ## Author
 
-**Scott** - AI/ML Security Engineer
+**Scott Thornton** - AI/ML Security Engineer
 
 *Building intelligent systems for security operations*
 

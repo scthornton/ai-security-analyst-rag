@@ -1,0 +1,57 @@
+# Core RAG Framework
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchainhub>=0.1.14
+langchain-cohere>=0.0.3
+
+# LLM and Embeddings
+openai>=1.10.0
+tiktoken>=0.5.2
+cohere>=4.40
+
+# Vector Databases
+chromadb>=0.4.22
+faiss-cpu>=1.7.4
+
+# Advanced Retrieval
+ragatouille>=0.0.7  # ColBERT
+sentence-transformers>=2.3.1
+
+# Data Processing
+beautifulsoup4>=4.12.3
+lxml>=5.1.0
+requests>=2.31.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Evaluation and Monitoring
+langsmith>=0.0.87
+
+# Deployment
+streamlit>=1.31.0
+python-dotenv>=1.0.1
+
+# Development Tools
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+
+# Utilities
+tqdm>=4.66.0
+pydantic>=2.6.0
+pyyaml>=6.0.1
+
+# Optional: For processing PDFs and other document types
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# Optional: For visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0

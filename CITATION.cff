@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this project in your research or work, please cite it as below."
+type: software
+title: "Security RAG From Scratch: Building an AI Security Analyst Assistant"
+version: 1.0.0
+date-released: 2025-10-21
+url: "https://github.com/scthornton/ai-security-analyst-rag"
+repository-code: "https://github.com/scthornton/ai-security-analyst-rag"
+license: MIT
+authors:
+  - family-names: "Thornton"
+    given-names: "Scott"
+    orcid: ""
+keywords:
+  - "RAG"
+  - "Retrieval-Augmented Generation"
+  - "AI Security"
+  - "Machine Learning Security"
+  - "LLM"
+  - "MITRE ATT&CK"
+  - "OWASP"
+  - "ColBERT"
+  - "RAPTOR"
+  - "Security Assistant"
+  - "Cybersecurity"
+  - "Natural Language Processing"
+abstract: >
+  A comprehensive, educational implementation of Retrieval-Augmented Generation (RAG) 
+  techniques applied to AI/ML security applications. This project demonstrates how to build
+  a production-ready RAG system for security operations, progressing from basic concepts 
+  to advanced techniques like RAPTOR (hierarchical knowledge organization) and ColBERT 
+  (late interaction retrieval). Includes 11 detailed Jupyter notebooks covering fundamental 
+  RAG concepts, advanced retrieval methods, query decomposition, metadata filtering, 
+  intelligent reranking, security hardening (adversarial detection, PII redaction), 
+  comprehensive evaluation metrics, and production deployment with Streamlit. The system
+  uses authoritative security data sources including MITRE ATT&CK, OWASP Top 10 for LLMs,
+  and CVE databases to help security analysts navigate complex frameworks and respond to
+  threats more effectively.
+references:
+  - type: article
+    authors:
+      - family-names: "Khattab"
+        given-names: "Omar"
+      - family-names: "Zaharia"
+        given-names: "Matei"
+    title: "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT"
+    year: 2020
+    url: "https://arxiv.org/abs/2004.12832"
+  - type: article
+    authors:
+      - family-names: "Sarthi"
+        given-names: "Parth"
+    title: "RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval"
+    year: 2024
+    url: "https://arxiv.org/abs/2401.18059"

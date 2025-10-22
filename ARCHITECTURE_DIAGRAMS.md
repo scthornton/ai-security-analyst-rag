@@ -807,5 +807,5 @@ Follow this template:
 ---
 
 **Created for**: Security RAG from Scratch Project
-**Author**: Scott
-**Date**: 2025-10-20
+**Author**: Scott Thornton
+**Date**: 2025-07-20

@@ -13,6 +13,7 @@ A comprehensive, educational implementation of RAG techniques applied to AI/ML s
 
 - [Overview](#overview)
 - [Key Features](#key-features)
+- [Learning Path](#learning-path)
 - [What You'll Learn](#what-youll-learn)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
@@ -20,7 +21,6 @@ A comprehensive, educational implementation of RAG techniques applied to AI/ML s
 - [Security Data Sources](#security-data-sources)
 - [Advanced Techniques](#advanced-techniques)
 - [Demo Application](#demo-application)
-- [Portfolio Highlights](#portfolio-highlights)
 - [Contributing](#contributing)
 - [License](#license)
 - [Resources](#resources)
@@ -38,6 +38,15 @@ This project demonstrates how to build a production-ready RAG system for securit
 🛡️ **Security Hardening** - Adversarial detection, PII redaction, source verification
 🌐 **Production Ready** - Streamlit app with Docker deployment
 📚 **Educational** - Clear explanations and visualizations throughout
+
+## Learning Path
+
+**New to RAG?** Start here:
+
+1. [RAG From Scratch by LangChain](https://github.com/langchain-ai/rag-from-scratch) - Excellent introduction to core RAG concepts (indexing, retrieval, generation)
+2. Return to this repo for security-focused advanced techniques and production deployment
+
+**Already know RAG basics?** Start directly with Notebook 1 to see how RAG applies to security applications with advanced retrieval methods, security hardening, and production-ready architecture.
 
 ## What You'll Learn
 
@@ -167,17 +176,6 @@ Organizes security knowledge hierarchically, enabling both high-level overviews 
 Token-level embeddings with late interaction scoring for precise matching.
 
 **Use Case**: Find similar code vulnerability patterns, match exploit signatures, search security logs with complex queries.
-
-## Portfolio Highlights
-
-This project demonstrates:
-
-- ✨ **Technical Depth**: Implementation of cutting-edge research (RAPTOR, ColBERT)
-- 🎯 **Domain Expertise**: Real-world security applications with authoritative data
-- 🏗️ **Production Readiness**: Security hardening, evaluation, monitoring, deployment
-- 📚 **Communication Skills**: Clear documentation, educational content, visual explanations
-- 🔬 **Research Awareness**: Understanding and implementing recent academic papers
-- 🚀 **End-to-End Thinking**: From concept to deployed application
 
 ## Demo Application
 

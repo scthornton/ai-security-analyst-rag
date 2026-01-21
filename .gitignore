@@ -105,3 +105,13 @@ checkpoints/
 # Documentation builds
 docs/_build/
 site/
+
+# AI tool artifacts (additional patterns)
+.claude/
+CLAUDE.md
+planning.md
+status.md
+notes.md
+todo.md
+*.chat
+*.conversation

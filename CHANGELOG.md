@@ -5,31 +5,18 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 ### Added
-- AI Security Analyst Assistant built with RAG (Retrieval-Augmented Generation)
-- Learn-from-scratch tutorial with comprehensive Jupyter notebooks
-- LangChain integration for document processing
-- Vector database for security knowledge retrieval
-- Interactive security analysis capabilities
+- Secure Python chatbot with Palo Alto Networks AIRS protection
+- Claude API integration (Anthropic)
+- SDK and API implementations
+- Comprehensive deployment guide
+- Customer package documentation
+- Production-ready setup script
 
-### Features
-- RAG-based security analysis assistant
-- Security knowledge base with retrieval capabilities
-- Jupyter notebook tutorials for hands-on learning
-- Docker containerization for easy deployment
-- Comprehensive architecture documentation with diagrams
+### Security Features
+- Prisma AIRS Runtime Security integration
+- Claude AI model security
+- Secure credential management
+- Environment-based configuration
+- Production security best practices
 
-### Technical Stack
-- LangChain for RAG pipeline
-- Vector database for document embedding
-- Python application with Flask/FastAPI backend
-- Jupyter notebooks for interactive learning
-- Docker deployment support
-
-### Documentation
-- Architecture diagrams and system design
-- Contributing guidelines and code of conduct
-- Citation file for academic reference
-- Security policy and best practices
-- Learn-from-scratch approach for accessibility
-
-[Unreleased]: https://github.com/scthornton/ai-security-analyst-rag/commits/main
+[Unreleased]: https://github.com/scthornton/secure-chatbot-panw-claude/commits/main
